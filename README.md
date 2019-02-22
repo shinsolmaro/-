@@ -7,7 +7,6 @@ it학원 비트캠프의 홈페이지
 기능 개요
 ---------------------
 ![mainpageimage](bitcamp%20mainpage.png)
-mainpageimage
 >1. 회원, 관리자
 >2. 게시판
 >3. 출결관리
