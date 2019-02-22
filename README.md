@@ -44,7 +44,7 @@ it학원 비트캠프의 홈페이지
 
 출결관리 세부기능
 ---------------------
-![attendancemainimage](src/kr/co/bit_camp/출결%20메인.png)
+![attendancemainimage](출결%20메인.png)
       
 1. 입실시 시간 기록
 2. 퇴실시 시간 기록
