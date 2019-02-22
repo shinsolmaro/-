@@ -6,7 +6,9 @@ it학원 비트캠프의 홈페이지
 
 기능 개요
 ---------------------
-![Alt text](bitcamp-community/src/kr/co/bit_camp/비트캠프 메인페이지.png)
+![Alt text](
+        bitcamp-community/bitcamp mainpage.png
+      )
 >1. 회원, 관리자
 >2. 게시판
 >3. 출결관리
